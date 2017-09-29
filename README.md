@@ -2,12 +2,12 @@
 An SIS Coding Club project that is intended to make Powerschool great again.
 
 ### Contributors (?)
-Edward Cheong
-David Suh
-Michelle Ahn
-Young-Jin Park
-Kevin Lee
-this other kid
+- Edward Cheong
+- David Suh
+- Michelle Ahn
+- Young-Jin Park
+- Kevin Lee
+- this other kid
 
 
 ### Features
@@ -21,9 +21,8 @@ this other kid
 - README.md (This file)
 - manifest.json (Basic Chrome Extension setup file)
 
-
 ### Style
-Style is how to write code, and how
+Style is how to write code, and how to make it readable to others
 
 - add spaces in between stuff
 ```javascript
