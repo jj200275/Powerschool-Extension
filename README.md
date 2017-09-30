@@ -1,7 +1,15 @@
 # Powerschool-Extension
 An SIS Coding Club project that is intended to make Powerschool great again.
 
-### Contributors (?)
+## Languages
+Everybody should know atleast the basics of
+- Javascript
+- HTML
+- CSS
+- JSON
+
+
+## Contributors (?)
 - Edward Cheong
 - David Suh
 - Michelle Ahn
@@ -10,18 +18,20 @@ An SIS Coding Club project that is intended to make Powerschool great again.
 - this other kid
 
 
-### Features
+## Features
  - [ ] is chrome extension
  - [ ] finds average of grades
  - [ ] finds average of subgrades
  - [ ] GPA Graph (?)
  - [ ] more...
 
-### File Tree:
+
+## File Tree:
 - README.md (This file)
 - manifest.json (Basic Chrome Extension setup file)
 
-### Style
+
+## Style
 Style is how to write code, and how to make it readable to others
 
 - add spaces in between stuff
