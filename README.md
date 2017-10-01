@@ -15,6 +15,7 @@ Everybody should know atleast the basics of
 - Michelle Ahn
 - Young-Jin Park
 - Kevin Lee
+- Justin Jeong
 - this other kid
 
 
